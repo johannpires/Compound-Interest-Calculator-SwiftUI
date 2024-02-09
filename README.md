@@ -9,6 +9,9 @@ The Compound Interest Calculator is an iOS application designed to facilitate th
 This project aims to provide a user-friendly tool for calculating compound interest, enabling users to make informed financial decisions and secure their financial future. It's also intended to highlight the extraordinary power of compounding, showcasing the exponential potential of consistent contributions and reinvestment strategies.
 
 ## :camera_flash: Screenshots
+
+Soon... 
+
 <!-- You can add more screenshots here if you like -->
 
 <!-- <img src="/Screenshots/Home.png" width="260">&emsp;<img src="/Screenshots/Home2.png" width="260">&emsp;<img src="/Screenshots/Results.png" width="260"> -->
