@@ -19,7 +19,8 @@ This project aims to provide a user-friendly tool for calculating compound inter
 * SwiftUI
 
 ### TO DO
-- Improve the UI.
+- Add the formatting while typing in.
+- Add a nice graph for data vizualization and a better user experience.
 
 ## Author
 Johann Pires (follow me on [LinkedIn](https://www.linkedin.com/in/johann-p-261961215/))
